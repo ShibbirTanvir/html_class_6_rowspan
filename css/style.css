@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	padding: 100px;
+	margin: 0 auto;
+	width: 80%;
+	font-family: sans-serif;
+	color: white;
+}
+
+.wrapper{
+	padding-left: 30%;
+}
+
+table, th, td{
+	padding: 10px;
+	border: 1px solid #044171;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.caption{
+	font-size: 25px;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #003860;
+}
+
+.th{
+	background-color: #005490;
+}
+
+.rowodd{
+	background-color: #0070c0;
+}
+
+.roweven{
+	background-color: #005a9a;
+}
+
+.us{
+	background-color: #2a93fb;
+}
+
+.them{
+	background-color: #2684e1;
+}
+
+.sample1{
+	background-color: #40b0ff;
+}
+
+.sample2{
+	background-color: #399ee5;
+}
+
+.last1{
+	background-color: #80caff
+}
+
+.last2{
+	background-color: #73b5e5;
+}
